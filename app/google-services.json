@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291229476283",
+    "project_id": "dudufood-s",
+    "storage_bucket": "dudufood-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291229476283:android:19c078ab827facc0f3509e",
+        "android_client_info": {
+          "package_name": "com.naitsc.dudufoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291229476283-qh4dd59257hqh7eeuofqcjchv8794dk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-Tx92ItFQXRbn7MHMXfzCr-ASB2CuNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291229476283-qh4dd59257hqh7eeuofqcjchv8794dk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
